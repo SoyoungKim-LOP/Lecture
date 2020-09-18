@@ -51,9 +51,8 @@ I am writing on ...
 > 데이터통계분석 방법:
 >
 > (1) ROC curve 그리기: https://tykimos.github.io/2017/05/22/Evaluation_Talk/#:~:text=ROC%20curve%EB%A5%BC%20%EA%B7%B8%EB%A6%AC%EB%8A%94%20%EB%B0%A9%EB%B2%95,%EC%9D%84%20%EC%B0%8D%EA%B3%A0%20%EC%97%B0%EA%B2%B0%ED%95%98%EB%A9%B4%20%EB%90%A9%EB%8B%88%EB%8B%A4.
->
-> (2) Conv2DTranspose 이해하기:
-1) Transpose Convolution 간단정리: https://wiserloner.tistory.com/1150
+> (2) Conv2DTranspose 이해하기:1) Transpose Convolution 간단정리: https://wiserloner.tistory.com/1150
+> (3) GAN 코드 분석 (Conv2DTranspose 설명 포함): https://leestation.tistory.com/776 
 
 
 
