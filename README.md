@@ -46,6 +46,10 @@ I am writing on ...
   + Data analysis about the national pension (sample data: https://github.com/teddylee777/fastcampus-ds/blob/master/sample/sample-01-national-pension.ipynb)
   + Practice on my won way (to be shared with our Fastcampus-LOP team)
 
++ the third lecture on September 19 :
+
+  + Kaggle 데이터 분석하기(Home Credit Default Risk 데이터) : https://www.kaggle.com/c/home-credit-default-risk/data
+  
 
 
 > 데이터통계분석 방법:
