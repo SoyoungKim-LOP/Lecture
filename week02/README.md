@@ -1,13 +1,8 @@
 # Introduction
 
-I have submitted the 1st task. 
-
-Thank you for mentor's helps.
-
-
-
-========================
-
-This is a ready page for 2nd week.
-
-uploaded data: 2020/09/12/Sat
+> What Alice have done for the second week of September in 2020:  
+> - Practicing a code of the national-pension example 
+> - Try out to solve a problem about Korean characters setting on Colab (Hasn't been solved yet)
+> - ROC curve making
+>
+>-----by 2020/09/18/Staturday------------------------------------------------------------------
