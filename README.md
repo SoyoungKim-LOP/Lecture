@@ -46,13 +46,20 @@ I am writing on ...
   + Data analysis about the national pension (sample data: https://github.com/teddylee777/fastcampus-ds/blob/master/sample/sample-01-national-pension.ipynb)
   + Practice on my won way (to be shared with our Fastcampus-LOP team)
 
++ the third lecture on September 19 :
+
+  + Kaggle 데이터 분석하기(Home Credit Default Risk 데이터) : https://www.kaggle.com/c/home-credit-default-risk/data
+  
 
 
 > 데이터통계분석 방법:
 >
-> (1) ROC curve 그리기: https://tykimos.github.io/2017/05/22/Evaluation_Talk/#:~:text=ROC%20curve%EB%A5%BC%20%EA%B7%B8%EB%A6%AC%EB%8A%94%20%EB%B0%A9%EB%B2%95,%EC%9D%84%20%EC%B0%8D%EA%B3%A0%20%EC%97%B0%EA%B2%B0%ED%95%98%EB%A9%B4%20%EB%90%A9%EB%8B%88%EB%8B%A4.
->
-> 
+> (1) ROC curve 그리기: https://tykimos.github.io/2017/05/22/Evaluation_Talk/#:~:text=ROC%20curve%EB%A5%BC%20%EA%B7%B8%EB%A6%AC%EB%8A%94%20%EB%B0%A9%EB%B2%95,%EC%9D%84%20%EC%B0%8D%EA%B3%A0%20%EC%97%B0%EA%B2%B0%ED%95%98%EB%A9%B4%20%EB%90%A9%EB%8B%88%EB%8B%A4.  
+> (2) Conv2DTranspose 이해하기:1) Transpose Convolution 간단정리: https://wiserloner.tistory.com/1150  
+> (3) GAN 코드 분석 (Conv2DTranspose 설명 포함): https://leestation.tistory.com/776  
+> (4) How to use the UpSampling2D & Conv2DTranspose Layers in Keras : https://machinelearningmastery.com/upsampling-and-transpose-convolution-layers-for-generative-adversarial-networks/   
+>  
+>  
 
 
 
