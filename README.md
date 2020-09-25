@@ -58,7 +58,9 @@ I am writing on ...
 > (2) Conv2DTranspose 이해하기:1) Transpose Convolution 간단정리: https://wiserloner.tistory.com/1150  
 > (3) GAN 코드 분석 (Conv2DTranspose 설명 포함): https://leestation.tistory.com/776  
 > (4) How to use the UpSampling2D & Conv2DTranspose Layers in Keras : https://machinelearningmastery.com/upsampling-and-transpose-convolution-layers-for-generative-adversarial-networks/   
->  
+> (4) 파이썬을 이용한 통계분석 방법: https://partrita.github.io/posts/thinkstat2/  
+>
+
 >  
 
 
