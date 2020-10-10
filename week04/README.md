@@ -1,4 +1,4 @@
-# Introduction
+# Overview of week04
 
 > **제목:**  Python을 활용한 시각화 내용 정리(4주차)
 >
@@ -32,13 +32,13 @@
 
 
 
-### [2] Stocks_visualization: 주식 실시간 데이터 시각화하기
+### [2] Visualization: 주식 실시간 데이터 시각화하기
 
 
 
 
 
-### [3] Stocks_Dashboard_in_Excel: 주식 실시간 데이터로 엑셀 대시보드 만들기
+### [3] Dashboard_in_Excel: 주식 실시간 데이터로 엑셀 대시보드 만들기
 
 
 
