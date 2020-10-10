@@ -1,0 +1,1815 @@
+﻿일련번호,,Serial No. ,Unit No. ,Sex,Age,exclusion,MRI date,Height,weight,BSA(m2),"BMI 
+(kg/m2)","systolic BP
+(mmHg)","diastolic BP
+(mmHg)","Heart rate
+(beats/min)",Creatinine,"eGFR 
+(ml/min/1.73m2)",Creatinine_시행일자,Sodium,Sodium_시행일자,NT-proBNP(pg/mL)_결과값,NT-proBNP_시행일자,"Hematocrit
+ (%)",Hematocrit_시행일자,"NYHA 
+functional class (I~IV)",NYHA_binary,기록 작성일자,Diabetes (확진),진단일자,"smoking
+(current or previous)",Family history of cardiomyopathy or sudden cardiac death,History of atrial fibrillation,진단일자,Initial echocardiography date,LVEF1,LVEDD1,F/U echocardiography date,LVEF2,LVEDD2,Echo_interval,Death,Cause of death ,MI Hx,MI _date,stress ECG,stess_date,SPECT,"SPECT
+_date",Heart_CT,"HeartCT
+_date","CAG
+(coronary angiography)","CAG
+(Comment)","CAG
+(a. Clinical diagnosis)","CAG
+(b. Anatomical diagnosis)","CAG
+(Conclusions)",CAG_date,LVEF호전,LVEDDi감소,LVRR,LVEF2>45%,LGE%
+179,,796,2865705,M,59,0,2016-06-20,164,68,1.76,25.28,95,56,44,0.87,90,2016-06-16,138,2016-06-16,711,2016-06-16,46.3,2016-06-16,2,2,2018-09-07,No,N/A,Y,No,Yes,2016-12-01,2016-05-30,40,54,2017-03-03,39,54,277,N/A,N/A,N,N/A,"- 키:  164 cm, 체중:  68 kg
+
+- 최대산소섭취량(VO2peak) :  17.99 ml/kg/min (  5.14 METs)
+
+- Age predicted aerobic capacity:  56 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란
+
+- RER:  1.21 (1.1이상 최대노력)
+
+- VE/VCO2 slope:  35.2 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- no PVC 
+
+- ST depression 2mm 미만(at 2 min)  in lead II, III, aVF, V4-6
+  ST depression 2mm 이상(at 8 min) in lead II, III, aVF, V4-6
+
+- recovery at 1min HR :  98 bpm
+
+** 검사자 comment : 검사 진행시에는 SBP 큰 상승 관찰되지 않으나 검사 종료 후 recovery 시 SBP 107 -> 127 mmHg 까지 상승하는 모습 관찰됨. Clinical correlation required",2016-05-30,N/A,N/A,"History: 앉았다 일어나면 약간 어지럽다. R/O DCMP  
+Chest pain 양상: Other(Dizziness) 
+  
+EKG (LVH with repolarization abnormality 2016.05.24), TMT (Positive, ST depression during test 2016.05.30), MIBI (not done)  
+Pretest probability of CAD: Low  
+  
+Siemens flash, flash mode, RR 1463ms, bpm (Min: 37, Max: 48, Avg: 41), good quality, DLP (CAC: 55, CTA: 49, Total: 120), Pamiray370.  
+  
+Coronary artery calcium score is 27.7, which means mild atherosclerotic plaque burden (Ca volume: 26.2, mass: 5.43).  
+  
+LCA: mLCx, calcified plaque(2), minimal stenosis(<10%) 
+        dLCx, calcified plaque(2), minimal stenosis(<10%) 
+         2nd OM, calcified plaque(1), minimal stenosis(<10%) 
+RCA: dRCA, calcified plaque(1), minimal stenosis(<10%) 
+
+Other Cardiovascular findings: 
+ - LV enlargement, r/o DCMP
+Extra-cardiac findings:  No remarkable finding. 
+  
+IMP:  Minimal CAD. 
+ 
+All E1. 
+ 
+LSJ 
+  
+*RCA: Right coronary artery.  
+*LCA: Left coronary artery.  
+*Dg: Diagonal branch  
+*OM: obtuse marginal arthery  
+*BPM: Beats per minute  
+*CAC: Coronary artery calcium  
+*Ca: calcium   
+*RR: R-R interval   
+*Min: minimum/ Max: maximum/ Avg: average  
+*VD: vessel disease  
+*RUL: Right upper lobe RML: Right middle lobe RLL: Right lower lobe   
+*LUL: Left upper lobe, LLL: Left lower lobe  
+*DG: Diagonal branch   
+*RI: Ramus intermedius  
+*DCMP: Dilated cardiomyopathy",2016-06-16,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0,4.25
+180,,798,5714476,F,74,0,2016-06-21,149,55.4,1.514,24.95,100,55,68,0.59,100,2016-06-21,146,2016-06-21,1878,2016-06-19,37.4,2016-06-21,N/A,,N/A,yes,2016-06-19,N,No,Yes,2016-06-22,2016-06-20,30,68,2017-12-01,49,54,529,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,"<THIS REPORT WAS UPDATED IN GEPACS>
+  
+ 
+History:NSVT, Heart failure, New onset A.fib. 
+Chest pain 양상: Asymptomatic 
+ 
+ 
+EKG (T wave abnormality, consider anterior ischemia 2016.06.20), TMT (not done), MIBI (not done) 
+Pretest probability of CAD: Low 
+ 
+Siemens flash, sequence mode, RR 554ms, bpm (Min: 63, Max: 222, Avg: 108), good quality, DLP (CAC: 43, CTA: 215, Total: 273), Pamiray370. 
+ 
+Coronary artery calcium score is 151.9, which means moderate atherosclerotic plaque burden (Ca volume: 131.1, mass: 23.27). 
+ 
+LCA: mLAD, a calcified plaque with 30-49% stenosis
+         1st Dg, a calcified plaque with 30-49% stenosis
+         pLCx, calcified plaques (3) with r/o up to 50% stensois
+RCA:  No remarkable plaque or stenosis
+
+Other Cardiovascular findings:  left ventricular enlargement.
+Extra-cardiac findings:  pulmonary edema and bilateral pleural effusion
+ 
+IMP:  Coronary artery disease, r/o 1 vessel disease
+ 
+*RCA: Right coronary artery. 
+*LCA: Left coronary artery. 
+*Dg: Diagonal branch 
+*OM: obtuse marginal arthery 
+*BPM: Beats per minute 
+*CAC: Coronary artery calcium 
+*Ca: calcium  
+*RR: R-R interval  
+*Min: minimum/ Max: maximum/ Avg: average 
+*VD: vessel disease 
+*RUL: Right upper lobe RML: Right middle lobe RLL: Right lower lobe  
+*LUL: Left upper lobe, LLL: Left lower lobe 
+*DG: Diagonal branch  
+*RI: Ramus intermedius 
+
+
+
+Approved by: CHOI BYOUNG WOOK Jun 22, 2016 9:15:15 AM
+
+Completed by: CHOI BYOUNG WOOK Jun 22, 2016 9:15:15 AM",2016-06-21,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,1,13.48
+181,,799,5910606,F,55,0,2016-06-24,150,55,1.514,24.44,N/A,N/A,N/A,0.54,117,2016-06-07,142,2016-06-07,378,2016-06-07,41.3,2016-06-30,N/A,,N/A,No,N/A,N/A,No,No,N/A,2016-06-30,42,58,2017-10-31,53,50,488,N/A,N/A,N,N/A,"
+- 키:  155  cm, 체중: 59 kg
+
+- 최대산소섭취량(VO2peak) : 24.9 ml/kg/min ( 7.11 METs)
+
+- Age predicted aerobic capacity:  99  % (정상)
+
+- 운동중단 사유: 호흡곤란
+
+- RER:  1.13 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 20.9  (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- no PVC
+
+- no ST change
+
+- recovery at 1min HR :  97   bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** 꾸준히 하는 운동
+   걷기, 매일, 30분/회, RPE 11
+
+* Recent echo 17' 10/31, ef 53%",2017-10-31,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,1,0
+182,,801,8273920,M,41,0,2016-06-27,167,72,1.828,25.82,134,86,98,0.88,95,2016-06-27,305.88,2016-06-27,3805,2016-06-24,49.3,2016-06-27,N/A,,N/A,No,N/A,Y,No,No,N/A,2016-06-24,11,69,2017-08-04,45,57,406,N/A,N/A,N,N/A,"- 키:  167 cm, 체중:  71 kg
+
+- 최대산소섭취량(VO2peak) : 18.48 ml/kg/min (  5.28 METs)
+
+- Age predicted aerobic capacity:   47 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란
+
+- RER:  1.22 (1.1이상 최대노력)
+
+- VE/VCO2 slope:  30.4 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC & 회복기 PVC's
+
+- ST depression 2mm 미만(at 5 min) in lead II, III, aVF
+  ST depression 2mm 이상(at 10 min) in lead II, III, aVF
+
+- recovery at 1min HR :   122 bpm
+
+** 검사자 comment : 환자 특이증상 호소 없음. Clinical correlation required
+
+** recent echo (16' 6/24), EF 11%
+
+* 6MWT *
+전 SpO2 :  98 %
+후 SpO2 :  90 %
+총 보행 거리 :  520 m",2016-06-29,N/A,N/A,"
+History: orthopnea, DOE, Hypertension, DCMP 
+Chest pain 양상: Others(DOE)  
+EKG (Possible LAE 2016.06.27), TMT (not done), MIBI (not done) 
+Pretest probability of CAD: Low 
+ 
+Siemens flash, sequence mode, RR 649ms, bpm (Min: 88, Max: 98, Avg: 92), poor quality (inadequate contrast filling), DLP (CAC: 55, CTA: 173, Total: 241), Pamiray370. 
+ 
+Coronary artery calcium score is zero.
+ 
+Limited evaluation due to inadequate contrast filling.
+LCA: no visible significant stenosis.
+RCA:  no visible significant stenosis.
+
+Other Cardiovascular findings:  
+-Enlarged all cardiac chambers.
+-Small amount of pericardial effusion.
+
+Extra-cardiac findings:  no
+ 
+IMP: 1. No significant CAD.
+      2. Enlarged all cardiac chambers with small amount of pericardial effusion.
+ 
+*RCA: Right coronary artery. 
+*LCA: Left coronary artery. 
+*Dg: Diagonal branch 
+*OM: obtuse marginal arthery 
+*BPM: Beats per minute 
+*CAC: Coronary artery calcium 
+*Ca: calcium  
+*RR: R-R interval  
+*Min: minimum/ Max: maximum/ Avg: average 
+*VD: vessel disease 
+*RUL: Right upper lobe RML: Right middle lobe RLL: Right lower lobe  
+*LUL: Left upper lobe, LLL: Left lower lobe 
+*DG: Diagonal branch  
+*RI: Ramus intermedius 
+",2016-06-28,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,0,0.76
+183,,804,3352634,M,74,0,2016-06-28,165.3,65.3,1.732,23.9,102,64,54,0.99,74,2016-06-27,142,2016-06-27,2276,2016-06-27,43.1,2016-06-27,3,2,2016-06-30,No,N/A,Y,No,No,N/A,2016-06-28,20,85,2017-11-01,26,63,491,N/A,N/A,N,N/A,"- 키: 166.2 cm, 체중: 65.7 kg
+
+- 최대산소섭취량(VO2peak) :  14.08 ml/kg/min ( 4.02 METs)
+
+- Age predicted aerobic capacity:  54 % (정상 이하)
+
+- 운동중단 사유: 증상제한 (arrhythmia)
+
+- RER:  1.04 (1.1이상 최대노력)
+
+- VE/VCO2 slope:  28.8 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC's & 회복기 PVC's (initial EKG 부터 PVCs 관찰됨. initial rhythm abnormal EKG. 검사 중 연속 3 beats 이상의 running PVCs 관찰됨.)
+
+- no ST change 
+
+- recovery at 1min HR :  109  bpm
+
+** 검사자 comment : Clinical correlation required
+
+** Recent echo ('15 12/7) EF 25%
+
+** 6MWT
+pre SpO2: 100%
+post SpO2: 98%
+보행거리: 440M",2016-06-28,"
+Hx: Chest pain  
+2014-06-24 CAG: minimal CAD  
+2016-06-30 s/p cardiac resynchronization therapy defibrillator implantation d/t DCMP  
+HTN/DM -/-  
+EKG: Electronic ventricular pacemaker(75)  
+Ht/Wt: 165/65  
+Echocardiogram: Severe global hypokinesia of LV, EF 20% (2016.11.21)
+
+Technique:
+Tc-99m MIBI was injected to the patient intravenously, and resting SPECT imaging was performed.      
+Four hours later, an exercise stress test was done using an ergometer, and stress SPECT imaging was obtained.    
+
+Findings and impression:
+LV dilatation is seen.
+Mild degree, moderate sized, persistent perfusion decrease in the inferior wall. 
+Global hypokinesia.
+LVEF is estimated to be 25%.
+
+
+KSY
+",2016-12-02,"<THIS REPORT WAS CREATED FROM GEPACS>
+
+dilated cardiomyopathy
+
+CT 64, RR 1078 ms, good quality
+
+No coronary artery calcium.
+No coronary artery stenosis.
+A inflammatory nodule in Rt. apex.
+
+
+
+Approved by: CHOI BYOUNG WOOK 2007-03-27 오후 5:53:57
+
+Completed by: CHOI BYOUNG WOOK 2007-03-27 오후 5:53:57
+UTF-8
+",2007-03-20,"Lt.RA -> 6 Fr sheath -> Patch & Coban
+
+RCA : JR 5*4
+No sig. LN
+
+LCA : JL 5*4
+Tubular eccentric minimal LN of far d LAD
+
+Contrast : Visipaque 60 ml",N/A,No Sx  [ No Sx ],Normal & minimal dz.,Minimal CAD,2014-06-24,1,1,1,0,1.45
+187,,816,8280198,F,46,0,2016-07-11,172,59,1.679,19.94,114,73,73,0.76,82,2016-07-11,142,2016-07-11,2407,2016-07-07,37.9,2016-07-11,3,2,2016-10-13,No,N/A,Y,No,No,N/A,2016-07-08,23,65,2017-03-02,47,62,237,N/A,N/A,N,N/A,"- 키: 171.5 cm, 체중:  59.7 kg
+
+- 최대산소섭취량(VO2peak) :  21.83 ml/kg/min ( 6.23 METs)
+
+- Age predicted aerobic capacity:  73 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란
+
+- RER: 0.95 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 30.0 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- no PVC 
+
+- no ST change 
+ 
+- recovery at 1min HR :  109 bpm
+
+** 검사자 comment : Clinical correlation required
+
+** Recent echo ('16 7/8) EF 23%
+
+** 6MWT
+검사 전 SpO2: 100%
+검사 후 SpO2: 100%
+보행거리: 543M",2016-07-08,"Hx: For DOE, orthopnea, r/o DCMP 
+HTN/DM: (+/-)  
+EKG: NSR (76), Moderate voltage criteria for LVH, may be normal variant, T wave abnormality, consider inferolateral ischemia, Prolonged QT (2016.07.11)  
+Ht/Wt: 172/59
+
+Tc-99m MIBI were injected intravenously and resting SPECT imaging was performed.      
+Four hours later, a pharmacologic stress test was done using intravenous adenosine infusion       
+and stress SPECT imaging was obtained.        
+
+LV cavity size is within normal limits.
+On stress or resting images, no photon defects are seen in the myocardium.
+Global hypokinesia.
+LVEF is estimated to be 25%.
+
+r/o non-ischemic DCMP
+
+
+KSY
+
+",2016-07-11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,1,0
+189,,820,8283304,F,60,0,2016-07-14,153,51.6,1.481,22.04,110,70,81,1.07,52,2016-07-13,141,2016-07-13,10389,2016-07-13,35.7,2016-07-13,2,2,2016-09-12,yes,2016-07-13,N,No,Yes,2018-05-16,2016-07-13,21,61,2017-04-25,63,50,286,N/A,N/A,N,N/A,N/A,N/A,"
+
+Technique:   
+Tc-99m MIBI was injected to the patient intravenously at resting state.  
+Then, a pharmacologic stress test was done using intravenous adenosine infusion.  
+TI-201 was injected to the patient injected intravenously during the stress test.  
+Simultaneous Dual Isotope myocardial perfusion SPECT imaging was obtained using a standard protocol and reconstructed into axial, sagittal, and coronal planes.          
+
+Findings and impression: 
+LVE. 
+A moderate sized, moderate degree, reversible defect in the anterior and anterolateral wall.  CAG is recommended.
+LVEF is estimated to be 41%. ",2018-04-12,N/A,N/A,"RCA c JR 5-4
+ No sig. LN
+
+LCA c JL 5-4
+ minimal LN of p-dLCx
+ tubular ecc. 70% LN of p-mLAD
+
+[PCI at LCx]
+ XBG 6-3 SH
+ 014""G/W: Runthrough + soft J
+ balloon: PCI balloon 3.5*14(7atm) at p-mLAD
+ stent: Biomine 3.5*19(9atm) at p-mLAD
+ f/u angio: No R/S
+ 
+contrast: Visipaque 120cc",N/A,N/A,1VD,N/A,2016-07-18,1,1,1,1,0
+190,,824,7934900,M,51,0,2016-07-18,178,75,1.926,23.67,105,80,89,0.94,85,2016-07-17,140,2016-07-17,769,2017-08-01,53,2016-07-17,N/A,,N/A,No,N/A,Y,No,Yes,2014-09-29,2016-07-11,34,47,2017-08-18,59,45,403,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,1,0
+191,,825,8181471,M,76,0,2016-07-19,166,62,1.691,22.5,135,77,99,0.81,93,2016-07-19,141,2016-07-19,3277,2016-07-08,42.9,2016-07-19,1,1,2016-11-02,yes,2016-07-19,N,No,Yes,2016-07-19,2016-07-15,30,64,2017-09-14,39,60,426,N/A,N/A,N,N/A,"- 키:  168 cm, 체중:  59.4 kg
+
+- 최대산소섭취량(VO2peak) :  13.05 ml/kg/min ( 3.72 METs)
+
+- Age predicted aerobic capacity:  47 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란
+
+- RER: 0.98 (1.1이상 최대노력)
+
+- VE/VCO2 slope:  40.7 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 회복기 PVC's 
+
+- no ST change 
+
+- recovery at 1min HR :   110 bpm
+
+** 검사자 comment : 환자 dyspnea 호소하며 검사 중단 강하게 요청함. Clinical correlation required
+
+** Recent echo ('16 7/15) EF 30%",2016-07-20,"Hx: Dyspnea 
+HTN/DM +/+ 
+EKG af c RVR, Left axis deviation, Left ventricular hypertrophy with QRS widening(2016.07.18) 
+Ht/Wt 166 / 62 
+
+Tc-99m MIBI were injected intravenously and resting SPECT imaging was performed.      
+Four hours later, a pharmacologic stress test was done using intravenous adenosine infusion       
+and stress SPECT imaging was obtained.        
+
+LV cavity size is increased.
+Mild degree, moderate sized, persistent perfusion decrease in the anterior wall.
+Moderate degree, moderate sized, partial reversible photon defect in the inferior wall. Rec) CAG
+Global hypokinesia.
+LVEF is estimated to be 23%.
+
+
+KSY",2016-07-18,N/A,N/A,"Lt. RA c 5Fr sheath → PAD + Coban
+
+RCA c JR 5-4
+ Tubular ecc. 40% LN of pRCA
+ Diffuse ecc. 30% LN of m~dRCA
+ 
+LCA c JL 5-4
+ Tubular ecc. 30% LN of pLAD c severe Calcification 
+ Minimal LN at mLAD & 1st Dg
+ Tubular ecc. 40% LN of dLCx
+ 
+Contrast : Visipaque 80cc",N/A,No Sx  [ No Sx ],Normal & minimal dz.,N/A,2016-07-19,1,0,0,0,27.64
+193,,831,3265336,M,62,0,2016-07-26,170,63,1.725,21.8,108,71,66,0.65,124,2016-06-27,140,2016-06-27,139,2016-06-28,48,2016-08-08,2,2,2018-01-04,No,N/A,N,No,No,N/A,2016-06-27,44,58,2017-06-26,40,55,364,N/A,N/A,N,N/A,"- 키: 172 cm, 체중: 61.3 kg
+
+- 최대산소섭취량(VO2peak) :  32.20 ml/kg/min ( 9.2 METs)
+
+- Age predicted aerobic capacity: 96 % (정상, 과소평가 됨)
+
+- 운동중단 사유: 프로토콜 종료
+
+- RER: 0.88 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 40.8 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC's & 회복기 PVC's 
+
+- ST depression 2mm 미만(at 11 min) in lead II, III, aVF
+
+- recovery at 1min HR :  114 bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** Recent echo ('17 6/26) EF 40%
+
+** Recent Exercise habit
+트레드밀(6.5km/hr) /  60분/회 / 6회/주 / RPE- 13점",2017-07-07,N/A,N/A,"
+History: 왼쪽 가슴이 통증이 있고 왼쪽 갈비뼈 아래가 아프다. 호흡이 좀 곤란하다. 물만 먹어도 명치부위가 막힌다. 
+Chest pain 양상: Nonspecific chest pain   
+EKG (LVH with QRS widening 2016.06.23), TMT (결과 없음 2016.06.23), MIBI (not done) 
+Pretest probability of CAD: Intermediate 
+ 
+Siemens flash, sequence mode, RR 917ms, bpm (Min: 62, Max: 72, Avg: 65), good quality, DLP (CAC: 61, CTA: 78, Total: 151), Pamiray370. 
+ 
+Coronary artery calcium score is 331.0, which means moderate atherosclerotic plaque burden (Ca volume: 291.0, mass: 59.21). 
+ 
+LCA: 
+-LM, calcified plaque, minimal stenosis (<30%)
+-LM to pLAD, calcified plaque, mild stenosis (30-40%)
+-pLAD, calcified plaque, mild stenosis (30-40%)
+-mLAD, calcified plaque, mild stenosis (30-40%)
+
+RCA:  
+-pRCA, calcified plaque, mild stenosis (30-40%)
+-mRCA, calcified plaque, mild stenosis (30-40%)
+
+Other Cardiovascular findings: 
+-slightly high take-off of RCA.
+-atheromatous plaque with ulceration at descending thoracic aorta.
+
+Extra-cardiac findings:  
+-emphysema at both lungs.
+-stabilized Tbc at left upper lobe.
+ 
+IMP:  Mild CAD.
+
+LM, pLAD (E2) others (E1)
+ 
+*RCA: Right coronary artery. 
+*LCA: Left coronary artery. 
+*Dg: Diagonal branch 
+*OM: obtuse marginal arthery 
+*BPM: Beats per minute 
+*CAC: Coronary artery calcium 
+*Ca: calcium  
+*RR: R-R interval  
+*Min: minimum/ Max: maximum/ Avg: average 
+*VD: vessel disease 
+*RUL: Right upper lobe RML: Right middle lobe RLL: Right lower lobe  
+*LUL: Left upper lobe, LLL: Left lower lobe 
+*DG: Diagonal branch  
+*RI: Ramus intermedius 
+",2016-06-28,"Access site :	Lt. RA c 6Fr sheath → PAD + Coban 
+
+RCA c JR 5-4 
+ Minimal LN of RCA os.~mRCA  
+
+LCA c JL 5-4 
+ Minimal LN of pLAD 
+ Tubular ecc. 30% LN of mLAD 
+ Minimal LN of dLAD 
+
+Contrast : visipaque 70cc",N/A,No Sx  [ No Sx ],Normal & minimal dz.,Minimal CAD,2017-07-05,0,0,0,0,10.25
+196,,844,4281157,F,65,0,2016-08-11,168,69,1.794,24.45,118,72,64,0.57,106,2016-07-04,145,2016-08-12,158,2016-08-10,27.5,2016-08-12,2,2,2016-07-26,No,N/A,N,No,No,N/A,2016-07-26,47,58,2017-11-06,52,59,468,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,"<THIS REPORT WAS UPDATED IN GEPACS>
+  
+ 
+History: Heart failure. 
+Chest pain 양상: Asymptomatic. 
+ 
+EKG (T wave abnormality, consider lateral ischemia, 2016.7.4), TMT (not done), MIBI (not done) 
+Pretest probability of CAD: Low. 
+ 
+Siemens flash, sequence mode, RR 982ms, bpm (Min: 58, Max: 65, Avg: 61), good quality, DLP (CAC: 47, CTA: 118, Total: 178), Pamiray370. 
+ 
+Coronary artery calcium score is 16.3, which means atherosclerotic plaque burden (Ca volume: 14.2, mass: 2.46). 
+ 
+LCA: mLAD, a calcified plaque with <30% stenosis
+RCA:  no remarkable plaque or stenosis
+
+Other Cardiovascular findings:  not remarkable
+Extra-cardiac findings:  not remarkable
+ 
+IMP:  Minimal coronary artery disease
+
+mLAD (1)
+ 
+*RCA: Right coronary artery. 
+*LCA: Left coronary artery. 
+*Dg: Diagonal branch 
+*OM: obtuse marginal arthery 
+*BPM: Beats per minute 
+*CAC: Coronary artery calcium 
+*Ca: calcium  
+*RR: R-R interval  
+*Min: minimum/ Max: maximum/ Avg: average 
+*VD: vessel disease 
+*RUL: Right upper loe RML: Right middle lobe RLL: Right lower lobe  
+*LUL: Left upper lobe, LLL: Left lower lobe 
+*DG: Diagonal branch  
+*RI: Ramus intermedius 
+
+
+
+Approved by: CHOI BYOUNG WOOK Jul 28, 2016 4:12:51 PM
+
+Completed by: CHOI BYOUNG WOOK Jul 28, 2016 4:12:51 PM",2016-07-26,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,1,0
+197,,856,8308173,F,70,0,2016-08-29,150,65.92,1.657,29.3,141,41,70,0.68,86,2016-08-29,140,2016-08-29,881,2016-08-28,43.6,2016-08-29,1,1,2016-11-03,No,N/A,N,No,No,N/A,2016-08-26,26,69,2017-03-23,32,61,209,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Access site :	Lt. RA c 5Fr sheath → PAD + Coban
+
+RCA c JR 5-4
+ No significant LN 
+ 
+LCA c JL 5-4
+ No significanl LN
+  
+Contrast : Visipaque 80cc					",N/A,No Sx  [ No Sx ],Normal & minimal dz.,N/A,2016-08-29,1,1,1,0,0
+199,,863,8315777,M,48,0,2016-09-12,180,69,1.857,21.3,101,68,54,1.05,75,2016-09-12,141,2016-09-12,162,2016-09-08,43.9,2016-09-12,N/A,,N/A,No,N/A,Y,No,Yes,2016-09-22,2016-09-08,40,51,2017-08-05,55,54,331,N/A,N/A,N,N/A,"
+- 키:   182 cm, 체중:   68 kg
+
+- 최대산소섭취량(VO2peak) : 37.03 ml/kg/min ( 10.5 METs)
+
+- Age predicted aerobic capacity:   91 % (정상)
+
+- 운동중단 사유: 프로토콜 종료
+
+- RER:  1.14 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 22.0  (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- no PVC
+
+- ST depression 2mm 이상(at 11 min) in lead II, III, aVF ( flat )
+
+- recovery at 1min HR :   157  bpm
+
+** 검사자 comment : 검사 중 특이증상 호소 없고 프로토콜 완료로 검사 종료함. Clinical correlation required",2016-09-08,N/A,N/A,"Clinical history: Atrial fibrillation, Atrial septal defect
+    
+Acquisition: Siemens flash, Spiral, Heart rate (minimum 37, maximum 61, average 48), DLP (calcium scan 61, CTA 906, Total 980), Image quality good.   
+    
+FINDINGS:    
+Total calcium score is 0.  
+The coronary arteries arise in normal position.      
+There is right coronary artery dominance.   
+  
+LM: No evidence of plaque or stenosis.   
+LAD: No evidence of plaque or stenosis.   
+LCx: No evidence of plaque or stenosis.   
+RCA: No evidence of plaque or stenosis.   
+  
+Other cardiovascular findings: Usual LA and PV pattern.  
+                                    No intracardiac thrombus.
+                                    ASD devise closure without residual shunt. 
+
+Extracardiac findings: Post inflammatory sequela in the left upper lobe.  
+  
+Impression: No evidence of CAD.
+
+(CAD-RADS 0)  ",2017-12-16,"Lt. RA c 6Fr sheath → PAD + Coban
+
+RCA c JR 5-4 
+ No significant LN 
+ 
+LCA c JL 5-4 
+ No significant LN 
+
+Contrast : Scanlux 80cc",N/A,No Sx  [ No Sx ],Normal & minimal dz.,N/A,2016-09-09,1,0,0,1,0
+202,,872,8282943,M,74,0,2016-09-22,172,62,1.721,20.96,112,58,72,0.82,92,2016-09-22,142,2016-09-22,2524,2017-08-21,41.6,2016-09-22,2,2,2016-09-29,No,N/A,Y,No,No,N/A,2016-09-22,20,75,2017-09-05,20,75,348,N/A,N/A,N,N/A,"- 키:  171  cm, 체중:   64 kg
+
+- 최대산소섭취량(VO2peak) :16.11 ml/kg/min ( 4.60  METs)
+
+- Age predicted aerobic capacity:  58  % (정상 이하)
+
+- 운동중단 사유: leg discomfort
+
+- RER:  1.01 (1.1이상 최대노력)
+
+- VE/VCO2 slope:  28.3 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 & 회복기 PVC's 
+
+- ST depression 2mm 이상(at 8 min) in lead II, III, aVF (flat)
+  * ST depression near 1mm in lead II, III, aVF from initial EKG
+
+- recovery at 1min HR :   105    bpm
+
+** 검사자 comment : Clinical correlation required
+
+* recent echo 16' 8/10, ef 20%",2016-09-22,N/A,N/A,N/A,N/A,"Lt. Radial A c 6Fr sheath → PAD + coban 
+
+RCA c JR 5-4
+ No significant LN.
+
+LCA c JL 5-4
+ Tubular irr. 50% LN of mLAD
+ Minimal LN of dLAD 
+
+Contrast: Scanlux 70 cc",N/A,N/A,1VD,N/A,2016-08-11,0,0,0,0,0
+203,,884,8325574,M,29,0,2016-10-13,171,64.7,1.753,22.13,92,59,88,0.74,125,2016-10-13,138,2016-10-13,2755,2016-10-12,44.5,2016-10-12,2,2,2017-02-03,No,N/A,Y,No,No,N/A,2016-10-10,11,74,2017-10-25,70,40,380,N/A,N/A,N,N/A,"- 키:  170  cm, 체중: 64   kg
+
+- 최대산소섭취량(VO2peak) : 14.42 ml/kg/min ( 4.12  METs)
+
+- Age predicted aerobic capacity:  30  % (정상 이하)
+
+- 운동중단 사유: fatigue
+
+- RER:  1.03 (1.1이상 최대노력)
+
+- VE/VCO2 slope:  42.3 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중& 회복기 PVC's 
+
+- no ST change 
+
+- recovery at 1min HR :   101    bpm
+
+* Initial BP 85/60
+
+** 검사자 comment : 운동중 SBP 증가하였으나 증가폭 적음. Clinical correlation required 
+",2016-10-17,N/A,N/A,"Hx: 내원 3개월전 부터 DOE 발생후 심해졌으며, 1달전 부터 cough 동반되었고, 내원6일전부터 orthopnea develop 
+Chest pain 양상: Dyspnea (other)
+
+EKG (Right atrial enlargement, Left axis deviation  
+,Anterolateral infarct, 2016-09-30), TMT (not done), MIBI (not done)  
+Pretest probability of CAD:  very low 
+  
+GE Revolution, axial mode , bpm (Min:85 , Max:91 , Avg:87 ), fair quality due to stair step artifact, DLP (CAC:91.00 , CTA:440.86/59.06 , Total:562.28 ), Pamiray370.  
+  
+Coronary artery calcium score is zero, which means very low atherosclerotic plaque burden.
+(Ca volume: 0, mass 0)
+
+LCA : No significant plaque or stenosis. 
+RCA : No significant plaque or stenosis.
+
+Other cardiovascular findings: 
+-Dilated cardiomyopathy with multifocal intracavitary thrombi in left ventricle.
+_MV,AV are not remarkable
+
+Extracardiac findings: Calcified granulomas, airtrappings on Rt. apex, probably Tbc sequalae
+
+IMP: No significant CAD
+      Dilated cardiomyopathy with multifocal intracavitary thrombi in left ventricle.
+  
+*LCA: Left coronary artery.  
+*DG: Diagonal branch   
+*BPM: Beats per minute  
+*CAC: Coronary artery calcium  
+*Ca: calcium   
+*RR: R-R interval   
+*Min: minimum/ Max: maximum/ Avg: average  
+*VD: vessel disease  ",2016-09-30,"** coronary angiography note **
+
+Lt. radial artery with 5Fr sheath -> PAD+coban
+
+RCA c JR 5-4 
+ no significant LN in RCA
+
+LCA c JL 5-4 
+ tubular eccentric 40% LN of m-dLAD
+ tubular eccentric 30% LN of mLCx
+
+** Cardiac biopsy note **
+
+Right jugular vein was punctured and changed with 9 Fr Arrow sheath
+
+Intracardiac pressure and cardiac out were measured via Swan-Ganz catheter.
+
+Cardiac bipsy was done successfully 4 times.
+No complication
+
+Central venous pressure = 0mmHg
+RV pressure = 21/-6/4 mmHg
+PA pressure = 11/3/6 mmHg
+PCWP = 3mmHg","Minimal CAOD
+Successful cardiac biopsy",N/A,Normal & minimal dz.,"Minimal CAOD
+Successful cardiac biopsy",2016-12-22,1,1,1,1,10.9
+204,,885,2228375,F,60,0,2016-10-13,158,46,1.421,18.43,146,85,76,4.88,9,2016-10-13,137,2016-10-13,35000,2016-10-11,30.4,2016-10-13,N/A,,N/A,No,N/A,Y,No,No,N/A,2016-10-11,22,64,2017-07-12,44,49,274,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Rt. CFA c 7Fr sheath → suture 
+
+LCA c JL 5-4
+ Discrete ecc. 30% LN of LCx ostium
+
+RCA c JR 5-4
+ Tubualr ecc. 30% LN of mRCA c severe calcification
+
+Contrast : Scanlux 70cc",N/A,No Sx  [ No Sx ],Normal & minimal dz.,N/A,2016-10-12,1,1,1,0,4.78
+205,,892,3684715,M,55,0,2016-10-19,173,77.85,1.934,26.01,158,91,73,0.72,113,2016-10-17,139,2016-10-17,N/A,N/A,43.3,2016-10-17,1,1,2016-11-30,No,N/A,N,No,Yes,2016-10-17,2016-10-10,25,68,2018-04-04,51,56,541,N/A,N/A,N,N/A,"- 키:   173.7 cm, 체중:  79.9  kg
+
+- 최대산소섭취량(VO2peak) : 19.95 ml/kg/min ( 5.7  METs)
+
+- Age predicted aerobic capacity:  61  % (정상 이하)
+
+- 운동중단 사유: arrhythmia (NSVT, 4beats)
+
+- RER: 1.06  (1.1이상 최대노력)
+
+- VE/VCO2 slope:  34.7 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 & 회복기 PVC's 
+
+- no ST change 
+
+- recovery at 1min HR :    112   bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** 평소 꾸준히 하는 운동 : none
+
+* recetn echo 16' 10/10, ef 25%",2016-10-18,"Hx: Dyspnea aggravation, DCMP   
+2016-10 TMT: positive  
+HTN/DM: (-/-)          
+EKG: Atrial fibrillation with premature ventricular or aberrantly conducted complexes (77), Left axis deviation, Inferior infarct, age undetermined, Abnormal ECG (2016.10.19)          
+Ht/Wt: 173/79  
+Echocardiography: DCMP, Severe global hypokinesia of LV with eccentric LVH (2016.10.10) 
+ 
+Technique: 
+Tc-99m MIBI was injected to the patient intravenously, and resting SPECT imaging was performed. 
+Four hours later, a pharmacologic stress test was done using intravenous adenosine infusion, and stress SPECT imaging was obtained.         
+ 
+Findings and impression: 
+LV cavity size is within normal limits.       
+Moderate sized, moderate degree, partial reversibility in the inferior and inferolateral wall. Coronary angiography is recommended.      
+LVEF is estimated to be 22%. 
+ 
+WJY  ",2016-10-19,N/A,N/A,"Lt. RA c 6Fr sheath → PAD + Coban
+
+RCA c JR 5-4
+ No significant LN 
+ 
+LCA c JL 5-4 
+ Minimal LN at dLAD
+
+Contrast : Visipaque 80cc",N/A,Stable Angina ; CCS class  [ Stable Angina ; CCS class ],Normal & minimal dz.,N/A,2016-10-21,1,1,1,1,15.07
+206,,895,8326146,M,46,0,2016-10-20,172,68,1.802,22.99,120,70,55,0.94,86,2016-10-18,140,2016-10-18,227,2016-10-18,38,2016-10-18,N/A,,N/A,No,N/A,Y,No,No,N/A,2016-10-19,34,68,2017-08-17,51,63,302,N/A,N/A,N,N/A,"- 키:   171.8 cm, 체중:   68.5 kg
+
+- 최대산소섭취량(VO2peak) : 29.05 ml/kg/min (  8.3 METs)
+
+- Age predicted aerobic capacity:   74 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란 
+
+- RER:  1.16 (1.1이상 최대노력)
+
+- VE/VCO2 slope:  21.5 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 & 회복기 PVC's 
+
+- ST depression 2mm 이상(at 13 min) in lead II, III, aVF( flat )
+  * ST depression 2mm 미만 in lead II, III, aVF from initial EKG
+
+- recovery at 1min HR :    108   bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** 최근 하는 운동
+   걷기, 매일, 1시간, RPE 11
+
+* recent echo 16' 10/19, ef 34%",2016-10-20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,1,0
+207,,897,3233113,F,47,0,2016-10-21,162,64,1.697,24.39,N/A,N/A,N/A,0.5,132,2016-09-13,139,2016-11-03,N/A,N/A,37.4,2016-11-03,1,1,2016-11-09,No,N/A,N,No,No,N/A,2016-10-04,36,62,2017-04-07,42,59,185,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,0,21.13
+208,,907,7945078,F,70,0,2016-10-28,150,58,1.555,25.78,112,64,64,0.81,70,2016-08-02,139,2016-08-02,244,2018-04-13,39.3,2016-08-02,1,1,2015-04-14,No,N/A,N,No,No,N/A,2015-04-14,26,69,2018-10-05,26,65,1270,N/A,N/A,N,N/A,"- 키:  148.7  cm, 체중:  59.4  kg
+
+- 최대산소섭취량(VO2peak) : 18.74 ml/kg/min ( 5.35 METs)
+
+- Age predicted aerobic capacity:   90% (정상)
+
+- 운동중단 사유:  근골격계 문제 (leg discomfort)
+
+- RER: 1.16  (1.1이상 최대노력)
+
+- VE/VCO2 slope: 29.4  (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+-  운동중 PVC's & 회복기 PVC's (운동중 pvc couplet 관찰됨. initial EKG PVC관찰됨.) 
+
+- no ST change 
+
+** 검사자 comment : Clinical correlation required
+
+* 최근 echo검사 결과 ( 14' 10/28 ) ef 30%
+
+*** 6분 보행검사 ****
+보행 전 SpO2: 98%
+보행 후 SpO2: 97%
+
+보행거리:503m",2014-10-30,N/A,N/A,N/A,N/A,"Lt. Radial A. c 6Fr sheath → PAD + Coban
+
+RCA c JR 5-4
+ No sig. LN
+
+LCA c JL 5-4
+ No sig. LN
+
+contrast: Scanlux 70cc",N/A,N/A,N/A,No sig. LN,2014-10-29,0,0,0,0,11.61
+210,,911,8340420,F,76,0,2016-11-02,153,54.8,1.526,23.41,110,70,60,0.85,65,2016-11-01,144,2016-11-01,495,2016-11-01,37.3,2016-11-01,N/A,,N/A,yes,2016-10-31,N,No,No,N/A,2016-11-02,28,62,2018-08-29,36,56,665,N/A,N/A,N,N/A,"- 키: 153 cm, 체중:  54.8 kg
+
+- 최대산소섭취량(VO2peak) : 15.11 ml/kg/min ( 4.31 METs)
+
+- Age predicted aerobic capacity: 77 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란 
+
+- RER: 0.94 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 33.0 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC's & 회복기 PVC's 
+
+- no ST change 
+
+- recovery at 1min HR :  105 bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** 6MWT
+pre SpO2: 99%
+post SpO2: 98%
+보행거리: 436m
+
+** Recent Exercise habit
+None",2016-11-02,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,0,0
+211,,913,8343181,M,22,0,2016-11-03,173,68,1.808,22.72,110,70,110,0.8,121,2016-11-01,141,2016-11-03,56,2016-11-01,43.3,2016-11-03,N/A,,N/A,No,N/A,Y,No,No,N/A,2016-11-02,21,52,2017-12-01,56,49,394,N/A,N/A,N,N/A,"
+- 키:  173  cm, 체중:  72  kg
+
+- 최대산소섭취량(VO2peak) : 31.9 ml/kg/min ( 9.11  METs)
+
+- Age predicted aerobic capacity:  67  % (정상 이하)
+
+- 운동중단 사유: 호흡곤란
+
+- RER: 1.12 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 27.6 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- no PVC
+
+- no ST change 
+
+- recovery at 1min HR :   127   bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** 꾸준히 하는 운동
+   런닝머신 인터벌(9.0kmg 5분<->6.0km/hr 3분) 20분,
+   3회/주, RPE 13
+   자정거, 30분/회, 3회/주, RPE 12",2017-12-01,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,1,0
+212,,925,8346555,M,45,0,2016-11-15,164,59,1.639,21.94,110,70,109,0.78,108,2016-11-15,141,2016-11-15,7265,2016-11-13,31.1,2016-11-15,2,2,2016-11-21,No,N/A,Y,No,No,N/A,2016-11-11,27,74,2017-12-12,19,78,396,N/A,N/A,N,N/A,"- 키: 165 cm, 체중: 65 kg
+
+- 최대산소섭취량(VO2peak) :  18.6 ml/kg/min ( 5.31 METs)
+
+- Age predicted aerobic capacity:  50 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란
+
+- RER: 0.91 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 34.4 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 & 회복기 PVC's (PVC's from baseline ECG)
+
+- no ST change 
+
+- recovery at 1min HR : 76 bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** Recent Exercise habit
+none",2019-07-19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0,26.02
+213,,926,8342944,M,58,0,2016-11-17,160,55,1.563,21.48,100,60,60,1.19,63,2016-11-25,141,2016-11-25,874,2016-11-02,44.5,2016-11-25,3,2,2017-06-21,No,N/A,N,No,No,N/A,2016-11-17,33,68,2017-12-13,35,58,391,N/A,N/A,N,N/A,"- 키: 160 cm, 체중: 55 kg
+
+- 최대산소섭취량(VO2peak) :  38.29 ml/kg/min ( 10.9 METs)
+
+- Age predicted aerobic capacity:  108 % (우수, 과소평가 됨)
+
+- 운동중단 사유: 프로토콜 종료
+
+- RER: 1.17 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 23.3 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC's & 회복기 PVC's (recovery 3min 대에 frequent PVC's 관찰됨)
+
+- no ST change. Initial EKG LBBB pattern.
+
+- recovery at 1min HR : 142 bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** Recent Exercise habit
+걷기 /  40-50 분/회 /  3-4 회/주 / RPE- 13점",2016-11-17,N/A,N/A,"Outside coronary CT:
+
+FINDINGS:
+The coronary arteries arise in normal position. 
+There is Rt coronary artery dominance.
+LM:  No evidence of plaque or stenosis.
+LAD:  No evidence of plaque or stenosis.
+LCX:  No evidence of plaque or stenosis.
+RCA:  No evidence of plaque or stenosis.
+
+Other cardiovascular findings: LV and LA enlargement.
+Extra-cardiac findings:  unremarkable
+
+IMPRESSION:
+No evidence of coronary stenosis or plaque by coronary CT angiography
+",2017-06-19,N/A,N/A,N/A,N/A,N/A,N/A,0,1,0,0,0
+214,mid 데이터 저장 안됨,937,5870842,F,57,0,2016-11-29,158,60,1.623,24.03,100,65,98,0.7,86,2016-11-29,142,2016-11-29,3233,2016-11-25,39.6,2016-11-29,1,1,2016-12-13,No,N/A,N,No,No,N/A,2016-12-01,25,59,2017-10-31,58,50,334,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,1,0.7
+216,,942,7566965,F,37,0,2016-12-05,155,34.8,1.224,14.48,95,95,89,0.49,142,2016-12-05,134,2016-12-05,24488,2016-11-29,42.9,2016-12-05,2,2,2017-04-13,Yes,N/A,N,No,No,N/A,2016-12-05,21,44,2018-03-16,61,43,466,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,"History: Dyspnea, hypothyroidism, DM with nephropahty, Cerebellar atrophy 
+Chest pain 양상: Other (dyspnea) 
+ 
+EKG (LAE, Rightward axis, ST & T wave abnormality, consider inferolateral ischemia, Prolonged QT, 2016.12.01), TMT (not done), MIBI (not done) 
+Pretest probability of CAD: Very low 
+ 
+Siemens flash, sequence mode, RR 506ms, bpm (Min: 113, Max: 125, Avg: 118), good quality, DLP (CAC: 48, CTA: 44, Total: 102), Pamiray370. 
+ 
+Coronary artery calcium score is zero , which means very low atherosclerotic plaque burden (Ca volume: 0, mass: 0). 
+ 
+LCA: No significant stenosis or plaque.
+RCA:  No significant stenosis or plaque.
+
+Other Cardiovascular findings:  
+ - r/o mild LVH.
+Extra-cardiac findings:  small amount of right pleural effusion. 
+ 
+IMP:  No significant CAD.
+         
+ 
+*RCA: Right coronary artery. 
+*LCA: Left coronary artery. 
+*Dg: Diagonal branch 
+*OM: obtuse marginal arthery 
+*BPM: Beats per minute 
+*CAC: Coronary artery calcium 
+*Ca: calcium  
+*RR: R-R interval  
+*Min: minimum/ Max: maximum/ Avg: average 
+*VD: vessel disease 
+*RUL: Right upper lobe RML: Right middle lobe RLL: Right lower lobe  
+*LUL: Left upper lobe, LLL: Left lower lobe 
+*DG: Diagonal branch  
+*RI: Ramus intermedius 
+",2016-12-03,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,1,2.15
+217,,944,5332928,M,59,0,2016-12-06,163,54,1.564,20.32,109,85,70,0.74,108,2016-12-05,132,2016-12-05,2369,2016-12-07,37.6,2016-12-05,3,2,2016-12-13,yes,2012-05-15,Y,No,Yes,2012-05-15,2016-12-02,14,77,2017-08-18,76,45,259,N/A,N/A,N,N/A,"- 키: 164 cm, 체중: 51.5 kg
+
+- 최대산소섭취량(VO2peak) :  15.48 ml/kg/min ( 4.42 METs)
+
+- Age predicted aerobic capacity: 41 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란 
+
+- RER:  1.05 (1.1이상 최대노력)
+
+- VE/VCO2 slope:  57.6 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC's & 회복기 PVC's (Initial EKG 에서부터 PVC's 관찰됨)
+
+- no ST change 
+
+- recovery at 1min HR :  100 bpm
+
+** 검사자 comment : Initial EKG A.fib rhythm. Clinical correlation required 
+
+** Recent echo ('16 12/2) EF 14%
+
+** Recent Exercise habit
+걷기 / 30-60 분/회 /  3회/주 / RPE- 10 점",2016-12-07,N/A,N/A,N/A,N/A,"** coronary angiography note **
+
+Lt. radial artery with 5Fr sheath -> PAD+coban
+
+RCA c JR 5-4 
+ RCA os  focal stenosis due to spasm 
+   after catheter resposition f/u : resolved
+ no significant LN in RCA
+
+LCA c JL 5-4 
+ no significant LN in LCA
+
+** Cardiac biopsy note **
+
+Right jugular vein was punctured and changed with 9 Fr Arrow sheath
+
+Intracardiac pressure and cardiac out were measured via Swan-Ganz catheter.
+
+Cardiac bipsy was done successfully 5 times.
+No complication
+
+
+Central venous pressure = 0 mmHg
+RV pressure = 23/-3 mmHg
+PA pressure = 19/7 mmHg
+PCWP = 4 mmHg
+
+
+Successful cardiac biopsy
+Normal coronary artery",N/A,N/A,Normal & minimal dz.,N/A,2017-03-06,1,1,1,1,48.02
+218,,946,7849244,M,41,0,2016-12-08,176,88,2.074,28.41,100,60,61,0.9,93,2016-12-30,140,2017-01-12,997,2017-01-04,39.4,2016-12-30,2,2,2016-12-15,No,N/A,N,Yes,No,N/A,2016-12-08,34,58,2018-05-02,32,58,510,N/A,N/A,N,N/A,"- 키: 177 cm, 체중: 89.5 kg
+
+- 최대산소섭취량(VO2peak) : 13.6 ml/kg/min ( 3.88 METs)
+
+- Age predicted aerobic capacity: 39 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란 
+
+- RER: 1.10 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 38.2 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC's & 회복기 PVC's 
+
+- no ST change 
+
+- recovery at 1min HR :  85 bpm
+
+** 검사자 comment : 환자 peak 시 BP down 됨에도 dizziness 호소없으나 상복부 답답한 느낌 심한양상 호소함. Clinical correlation required 
+
+** Recent Exercise habit
+none",2017-10-19,N/A,N/A,"Hx. : ventricular tachycardia (모:pacemaker, 이모,외삼촌:부정맥) 
+Chest Pain : Other(palpitation), 특수목적 : pre-RFA 
+ 
+EKG (1st degree AV block with PVC,intra-ventricular conduction block,T wave abnormality,2015.07.20), TMT (Not done), MIBI (Not done)  
+Pretest probability of CAD : low 
+  
+SiemensFlash, sequence mode, RR 856ms, bpm(max:117/min:55/avg:70), good quality, DLP (CAC:48, CTA:233, total:293), Pamiray 370 
+ 
+Coronary artery calcium score is zero, which means  very low atherosclerotic plaque burden.
+(Ca volume:0.0 , mass:0.0 )  
+ 
+LCA : No significant plaque or stenosis.   
+RCA : No significant plaque or stenosis.   
+   
+Other cardiovascular findings: focal fat attenuation at inferior wall of basal LV, r/o myocardial fibrosis. 
+Extracardiac findings: Rt. pleural effusion.   
+   
+IMP: 1. No significant CAD.   
+      2. No change of focal fat attenuation at inferior wall of basal LV, r/o fibrosis.
+      3. No visible intracardiac shunt or thrombus.
+      4. Accessory RPV from RML and conjoined ostium of LPV.
+      5. Rt. pleural effusion.
+ 
+   ",2015-09-07,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0,6.54
+219,,947,8351367,M,74,0,2016-12-12,163,64,1.702,24.09,123,63,72,0.72,107,2016-11-17,140,2016-11-17,229,2017-01-17,40.1,2016-11-17,1,1,2017-01-17,No,N/A,Y,No,No,N/A,2016-11-17,41,74,2017-07-14,42,70,239,N/A,N/A,N,N/A,"- 키: 160.2 cm, 체중:  67.2 kg
+
+- 최대산소섭취량(VO2peak) :  24.90 ml/kg/min ( 7.11 METs)
+
+- Age predicted aerobic capacity:  98 % (정상)
+
+- 운동중단 사유: 호흡곤란 
+
+- RER: 1.07 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 31.7 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- no PVC 
+
+- ST depression 2mm 미만(at 6 min) in lead II, III, aVF (downslope)
+
+- recovery at 1min HR :  127 bpm
+
+** 검사자 comment : Initial EKG LBBB pattern. 검사시 가슴 불편감 호소 없음. Clinical correlation required 
+
+** Recent echo ('16 11/17) EF 41%
+
+** Recent Exercise habit
+하이킹 / 120분/회 /  4회/주 / RPE- 13점",2017-01-17,N/A,N/A,"
+History: 25년전 식은땀이 나서 협심증 진단을 받고 현재까지 약을 한개 복용중인데 심장상태 궁금해서 내원. Hypertension.     
+Chest pain 양상: Asymptomatic.  
+     
+     
+EKG (Left bundle branch block, 2016-11-17), TMT (not done), MIBI (not done)     
+Pretest probability of CAD: Low     
+     
+Siemens flash, sequence mode, RR 1005ms, bpm (Min: 51, Max: 65, Avg: 59), good quality, DLP (CAC: 53, CTA: 124, Total: 188), Pamiray370.     
+     
+Coronary artery calcium score is 344.2, which means moderate atherosclerotic plaque burden (Ca volume: 294, mass: 56.47).     
+     
+LCA: pLAD, calcified plaque(2), minimal stenosis (10-30%).  
+         mLAD, calcified plaque(1), minimal stenosis (10-30%).     
+         mLCx, mixed plaque(1), minimal stenosis (10-30%).  
+RCA: pRCA, calcified plaque(1), minimal stenosis (10-30%).  
+          dRCA, mixed plaque(2), minimal stenosis (10-30%).  
+          rPL, calcified plaque(2), minimal stenosis (<30%)     
+Other Cardiovascular findings: Not remarkable.      
+Extra-cardiac findings: not remarakble.   
+     
+IMP: Minimal CAD.  
+ 
+pLAD (E2), Others E1.     
+     
+KJK 
+ 
+*RCA: Right coronary artery.     
+*LCA: Left coronary artery.     
+*Dg: Diagonal branch     
+*OM: obtuse marginal arthery     
+*BPM: Beats per minute     
+*CAC: Coronary artery calcium     
+*Ca: calcium      
+*RR: R-R interval      
+*Min: minimum/ Max: maximum/ Avg: average     
+*VD: vessel disease     
+*RUL: Right upper lobe RML: Right middle lobe RLL: Right lower lobe      
+*LUL: Left upper lobe, LLL: Left lower lobe     
+*DG: Diagonal branch      
+*RI: Ramus intermedius ",2016-11-17,"Lt. Radial artery c 6Fr sheath → PAD + Coban
+
+RCA c JR 5-4
+ Minimal LN of p~mRCA
+
+LCA c JL 5-4 → JL 5-5
+ Minmal LN of pLAD
+ Minimal LN of dLCx
+
+Contrast : Scanlux 50cc",N/A,Atypical Chest Pain   [ Atypical Chest Pain  ],Normal & minimal dz.,N/A,2016-11-28,0,0,0,0,16.82
+220,,949,3889828,M,69,0,2016-12-14,178,63,1.765,19.88,118,68,67,1.06,69,2016-12-14,140,2016-12-14,5049,2016-09-21,28.9,2016-12-14,1,1,2017-01-12,No,N/A,N,No,No,N/A,2016-10-05,33,70,2017-09-20,38,65,350,2018-09-17,다발성 골수종,N,N/A,N/A,N/A,N/A,N/A,"<THIS REPORT WAS UPDATED IN GEPACS>
+  
+Restrictive cardiomyopathy, Multiple myeloma, Dilated cardiomyopathy 
+특수목적:Valve 
+ 
+GE Revolution, heart rate (61,63,62), axial mode, good quality, DLP (calcium scan:68.30, CT angiography:374.91/59.12, Total 508.35), Pamiray 370  
+ 
+Coronary artery calcium score is 464(volume: 169, mass 65). 
+ 
+Lt : pLAD, calcified plaque (1), minimal stenosis(<30%) 
+      mLAD, calcified plaques (2), mild stenosis (30-49%)
+      pLCX, calacified plaques (2), mild stenosis (30-49%)
+Rt : pRCA, calcified plaque (1), minimal stenosis(<30%) 
+      mRCA, calcified plaques (4), minimal stenosis(<30%) 
+      dRCA, calcified plaque (4), minimal stenosis (<30%)
+ 
+Cardiac valves are normal with good function.
+ 
+Extracardiac findings : not remrarkable.
+ 
+IMP : Mild CAD
+
+
+
+Approved by: CHOI BYOUNG WOOK Jan 5, 2017 12:24:50 PM
+
+Completed by: CHOI BYOUNG WOOK Jan 5, 2017 12:24:50 PM",2017-01-04,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,0,6.46
+221,,955,7544184,F,76,0,2016-12-26,144.5,56.7,1.509,27.15,N/A,N/A,N/A,0.72,79,2016-12-13,141,2017-01-03,678,2017-01-03,38.2,2016-12-13,2,2,2016-12-16,No,N/A,N/A,No,No,N/A,2016-12-13,28,56,2017-06-13,33,54,182,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,0,0
+224,,976,8382516,M,44,0,2017-01-18,171,73,1.862,24.96,120,90,89,1.04,78,2017-01-16,141,2017-01-19,8491,2017-01-16,50.3,2017-01-17,N/A,,N/A,No,N/A,Y,No,No,N/A,2017-01-17,18,69,2019-01-17,20,75,730,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,0,11.22
+226,,986,8390961,M,70,0,2017-02-02,162.9,54.6,1.572,20.58,124,72,80,0.87,87,2017-02-02,143,2017-02-02,495,2017-01-31,45.7,2017-01-31,2,2,2017-02-14,Yes,N/A,Y,No,No,N/A,2017-02-01,28,64,2018-04-24,50,54,447,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Access site :	Lt. RA c 6Fr sheath → PAD + Coban         				
+RCA c JR 5-4 
+ No significant LN 
+ 
+LCA c JL 5-4 
+ No significant LN 
+ 
+Contrast : Visipaque 70cc",N/A,No Sx  [ No Sx ],Normal & minimal dz.,N/A,2017-02-02,1,1,1,1,0
+227,,990,8396690,F,24,0,2017-02-10,165,65,1.726,23.88,92,72,74,0.54,139,2017-02-10,142,2017-02-10,2827,2017-02-08,41.7,2017-02-10,1,1,2017-04-06,No,N/A,N,No,Yes,2017-02-08,2017-02-09,18,65,2018-07-19,62,51,525,N/A,N/A,N,N/A,"- 키: 164.7 cm, 체중: 66.2 kg
+
+- 최대산소섭취량(VO2peak) :  27.79 ml/kg/min ( 7.94 METs)
+
+- Age predicted aerobic capacity: 82 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란
+
+- RER: 1.00 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 27.4 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC's & 회복기 PVC's (PVC's from initial EKG)
+
+- no ST change 
+
+- recovery at 1min HR :  131 bpm
+
+** 검사자 comment : A.fib rhythm. Clinical correlation required 
+
+** Recent echo ('17 2/9) EF 18 %
+
+** 6MWT
+pre SpO2: 99%
+post SpO2: 99%
+보행거리: 520m
+
+** Recent Exercise habit
+걷기 /  60 분/회 / 6회/주 / RPE- 12점",2017-03-31,N/A,N/A,"
+History: dyspnea 
+Chest pain양상: Other(dyspnea) 
+ 
+EKG (Atrial fibrillation, Anterior infarct, age undetermined, 2017.02.09), TMT (not done), MIBI (not done) 
+Pretest probability of CAD: Low 
+ 
+Siemens Flash, sequence mode, RR 588ms, bpm (73/102/146), good quality, DLP (CAC 49, CTA 126, total 187), Pamiray 370. 
+ 
+Coronary artery calcium score is zero, which means  very low atherosclerotic plaque burden (Ca volume: 0, mass: 0). 
+ 
+LCA:  No significant stenosis or plaque. 
+RCA:  No significant stenosis or plaque.  
+ 
+Other Cardiac findings:
+  - r/o blood stasis or thrombus in LAA.
+  - Interatrial septal aneurysm with PFO.
+ - LAE and LVE. 
+Extra-cardiac findings:  no 
+ 
+IMP:  1. No significant CAD.
+            - r/o blood stasis or thrombus in LAA.
+            - Interatrial septal aneurysm with PFO.
+        2. LA and LV enlargement. 
+
+ 
+*LCA: Left coronary artery. 
+*RCA: Right coronary artery. 
+*BPM: Beats per minute 
+*CAC: Coronary artery calcium 
+*Ca: Calcium 
+*VD: vessel disease 
+*RUL: Right upper lobe RML: Right middle lobe RLL: Right lower lobe  
+*LUL: Left upper lobe, LLL: Left lower lobe",2017-02-10,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,1,0
+228,,992,8356454,M,56,0,2017-02-13,175,92,2.115,30.04,119,58,59,0.85,93,2017-02-13,141,2017-02-13,352,2016-12-26,41.2,2017-02-13,N/A,,N/A,No,N/A,Y,No,Yes,2016-11-25,2016-11-26,32,62,2018-01-15,66,53,415,N/A,N/A,N,N/A,"
+- 키:  176  cm, 체중:  98  kg
+
+- 최대산소섭취량(VO2peak) : 24.45 ml/kg/min (  6.98 METs)
+
+- Age predicted aerobic capacity:   88 % (정상)
+
+- 운동중단 사유: 호흡곤란 
+
+- RER:  1.17 (1.1이상 최대노력)
+
+- VE/VCO2 slope:  25.0 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- no PVC 
+
+- no ST change 
+
+- recovery at 1min HR :   136    bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** 꾸준히 하는 운동
+골프, 2회/주, 2시간30분/회, RPE 11
+
+* Recent echo 16' 11/26, ef 32%
+",2017-05-25,N/A,N/A,"
+History: other (dyspnea)
+Chest pain 양상: T내원 9일 전 갑자기 시작된 dyspnea, orthopnea, sweating 
+ 
+EKG (Normal), TMT (not done), MIBI (not done) 
+Pretest probability of CAD:  intermeidate
+ 
+Siemens flash, sequence mode, RR ms, bpm (Min: 57, Max: 122, Avg: 82), good quality, DLP (CAC: 49, CTA: 205, Total: 267), Pamiray370. 
+ 
+Coronary artery calcium score is 60.7, which means mild atherosclerotic plaque burden (Ca volume: 62.3, mass: 12.11). 
+ 
+LCA: 
+-DG, calcified plaque, minimal stenosis (<30%)
+-pLCx, calcified plaque, minimal stenosis (<30%)
+RCA:  
+-pRCA, calcified plaque, minimal stenosis (<30%)
+Other Cardiovascular findings:  no
+Extra-cardiac findings:  no
+ 
+IMP:  Minimal CAD.
+
+all E1
+ 
+*RCA: Right coronary artery. 
+*LCA: Left coronary artery. 
+*Dg: Diagonal branch 
+*OM: obtuse marginal arthery 
+*BPM: Beats per minute 
+*CAC: Coronary artery calcium 
+*Ca: calcium  
+*RR: R-R interval  
+*Min: minimum/ Max: maximum/ Avg: average 
+*VD: vessel disease 
+*RUL: Right upper lobe RML: Right middle lobe RLL: Right lower lobe  
+*LUL: Left upper lobe, LLL: Left lower lobe 
+*DG: Diagonal branch  
+*RI: Ramus intermedius 
+",2016-11-28,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,1,0
+229,,994,8398906,M,42,0,2017-02-15,177,72.9,1.893,23.27,100,70,66,0.64,137,2017-02-15,143,2017-02-15,1525,2017-02-13,48.2,2017-02-15,2,2,2017-06-15,No,N/A,Y,No,Yes,2017-02-15,2017-02-13,33,64,2017-09-18,30,65,217,N/A,N/A,N,N/A,"- 키: 177 cm, 체중: 72 kg
+
+- 최대산소섭취량(VO2peak) :  21.61 ml/kg/min ( 6.17 METs)
+
+- Age predicted aerobic capacity:  53 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란
+
+- RER: 0.92 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 31.0 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC's & 회복기 PVC's (Initial EKG 에서 PVC's)
+
+- no ST change 
+
+- recovery at 1min HR :  112 bpm
+
+** 검사자 comment : LBBB. Clinical correlation required 
+
+** Recent echo ('17 2/13) EF 33%
+
+** 6MWT
+pre SpO2: 99%
+post SpO2: 98%
+보행거리: 560m
+
+** Recent Exercise habit
+None",2017-02-16,"Hx: Dyspnea, HF, DCMP    
+HTN/DM: (-/-)     
+EKG: A.fib, Left axis deviation, LBBB, Abnormal ECG (2017.02.15)    
+Ht/Wt: 177/72  
+Echocardiography: Severe global hypokinesia (2017.02.13)
+
+Technique: 
+Tc-99m MIBI was injected to the patient intravenously, and resting SPECT imaging was performed.       
+Four hours later, a pharmacologic stress test was done using intravenous adenosine infusion, and stress SPECT imaging was obtained.  
+ 
+Findings and impression: 
+LVE.
+A moderate sized, moderate degree, persistant perfusion decrease in the inferior wall.
+Recommend) Clinical correlation. 
+Global hypokinesia.
+LVEF is estimated to be 28%.",2017-02-16,"CLINICAL HISTORY: A. fib, DCMP 
+           
+ACQUISITION: Siemens Flash, Spiral, Heart rate(minimum 41, maximum 83, average 58), DLP(calcium scan 57, CT angiography 1310, total 1384), Image quality good.            
+           
+FINDINGS:           
+Total calcium score is zero.           
+The coronary arteries arise in normal position.            
+There is right coronary artery dominance.           
+           
+LM: No definite evidence of plaques or stenosis.      
+LAD: No definite evidence of plaques or stenosis.  
+LCx: No definite evidence of plaques or stenosis. 
+RCA: No definite evidence of plaques or stenosis.    
+           
+Other cardiovascular findings: 
+-Biatrial enlargement. Dyssynchronous LV.
+  Measurable Lt marginal vein and posterior vein of LV.
+-Usual pattern of pulmonary veins. No intraatrial thrombus.
+Extracardiac findings: Not remarkable.      
+           
+Impression: 
+1. No significant CAD. 
+2. Biatrial enlargement. Dyssynchronous LV.
+   No intraatrial thrombus.
+  
+  
+CMJ",2017-08-04,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0,0
+230,,995,8395351,M,69,0,2017-02-18,176.3,67.8,1.822,21.81,129,82,80,0.8,96,2017-02-18,142,2017-02-18,562,2017-02-15,44,2017-02-15,2,2,2017-04-12,yes,2017-02-16,Y,No,No,N/A,2017-02-16,22,70,2017-12-05,32,60,292,N/A,N/A,N,N/A,"- 키:  179 cm, 체중: 67 kg
+
+- 최대산소섭취량(VO2peak) :  15.36 ml/kg/min ( 4.38 METs)
+
+- Age predicted aerobic capacity:  50 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란 
+
+- RER: 1.15 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 37.9 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC's & 회복기 PVC's 
+
+- no ST change 
+
+- recovery at 1min HR :  151  bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** Recent echo ('17 2/16) EF 22%
+
+** Recent Exercise habit
+None",2017-02-17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,0,0
+232,,1004,8398918,M,61,0,2017-03-03,173,77,1.924,25.73,127,70,81,0.79,100,2017-02-28,141,2017-02-28,657,2017-02-28,40.4,2017-02-28,N/A,,N/A,No,N/A,N,No,No,N/A,2017-03-02,31,65,2017-09-11,32,72,193,N/A,N/A,N,N/A,"
+- 키:  172.5  cm, 체중:  76  kg
+
+- 최대산소섭취량(VO2peak) : 24.28 ml/kg/min ( 6.93  METs)
+
+- Age predicted aerobic capacity:  78  % (정상 이하)
+
+- 운동중단 사유: 호흡곤란
+
+- RER: 1.14  (1.1이상 최대노력)
+
+- VE/VCO2 slope:  30.6 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 & 회복기 PVC's 
+
+- no ST change
+
+- recovery at 1min HR :    126   bpm
+
+** 검사자 comment : 검사 중 SBP상승 폭 적음. Clinical correlation required 
+
+** 꾸준히 하는 운동
+   걷기, 3회/주, 20분/회, RPE 11
+
+* 16' 12/26, LVEF: 35%
+
+* 6MWT *
+전 : 99%
+후 : 99%
+총 보행거리 582M",2017-03-02,N/A,N/A,"
+Hx : DCMP.  
+Outside cardiac CT:
+
+  
+FINDINGS:   
+The coronary arteries arise in normal position.    
+There is right coronary artery dominance.   
+   
+LM: No evidence of plaque or stenosis.    
+LAD: Mixed plaque with minimal (<30%) stenosis.  
+LCX: No evidence of plaque or stenosis.    
+RCA: No evidence of plaque or stenosis.    
+  
+Other cardiovascular findings: Enlarged LV. Focal wall thinning at apical inferior segment.
+
+IMPRESSION: Minimal CAD.   
+
+
+  
+YJY ",2017-03-02,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0,15.06
+233,,1007,8410882,M,32,0,2017-03-09,167,90,2.043,32.27,126,77,90,0.91,97,2017-03-09,140,2017-03-09,265,2017-03-11,49,2017-03-09,3,2,2017-03-08,yes,2017-04-18,Y,No,No,N/A,2017-03-08,18,73,2018-04-24,63,53,412,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Access site :Lt. Radial artery c 6Fr sheath → PAD + Coban
+
+RCA c JR 5-4
+ No significant LN
+
+LCA c JL 5-4
+ No significant LN
+
+Contrast : VIsipaque 40cc",N/A,No Sx  [ No Sx ],Normal & minimal dz.,N/A,2017-03-13,1,1,1,1,0
+234,,1009,3688683,M,53,0,2017-03-10,172.8,66,1.78,22.1,100,65,71,0.9,88,2017-03-09,145,2017-03-09,5088,2017-03-07,41.6,2017-03-09,1,1,2017-03-23,No,N/A,Y,No,Yes,2017-03-12,2017-03-07,40,66,2018-08-24,58,55,535,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Lt. RA c 6Fr sheath → PAD + Coban
+
+RCA c JR 5-4 
+ Tubular ecc. 30% LN of p~mRCA
+
+LCA c JL 5-4 
+ No significant LN 
+ 
+Contrast : Scanlux 70cc",N/A,Atypical Chest Pain   [ Atypical Chest Pain  ],Normal & minimal dz.,N/A,2017-03-13,1,1,1,1,7.72
+235,T1 map 없음,1012,2526973,M,63,0,2017-03-14,157,39,1.304,15.82,104,58,70,0.96,79,2017-01-16,141,2017-01-16,1485,2017-01-16,40.4,2017-01-16,2,2,2017-03-23,No,N/A,Y,No,No,N/A,2017-01-19,24,59,2018-06-04,34,53,501,N/A,N/A,N,N/A,"- 키: 159 cm, 체중: 48 kg
+
+- 최대산소섭취량(VO2peak) :  23.92 ml/kg/min ( 6.83 METs)
+
+- Age predicted aerobic capacity: 67 % (정상 이하, 과소평가 됨)
+
+- 운동중단 사유: 프로토콜 종료
+
+- RER: 1.06 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 31.8 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC's 
+
+- ST depression 2mm 미만(at 14 min) in lead II, III, aVF (with TWI. downslope)
+
+- recovery at 1min HR : 120 bpm
+
+** 검사자 comment : 검사 시작 12min 경까지 SBP 90mmHg 대에서 더 오르지 않는 양상 관찰됨. dizziness 동반 없음. Clinical correlation required 
+
+** Recent echo ('17 1/19) EF 24%
+
+** Recent Exercise habit
+족구 / 240 분/회 / 1 회/주 / RPE-12 점",2017-06-16,N/A,N/A,"
+Chest pain 양상: DOE(other)
+
+EKG (Normal sinus rhythm
+Possible Left atrial enlargement)
+TMT(시행안함)
+MIBI(시행안함)   
+Pretest probability of CAD: low
+GE revolution, Axial mode, bpm(87/91/89), good quality, DLP (CAC:24, CTA:181, Total 475), Pamiray 370 
+
+Coronary artery calcium score is zero, which means very low atherosclerotic plaque burden.
+(Ca volume: 0, mass 0)
+
+LCA : No significant plaque or stenosis. 
+RCA : No significant plaque or stenosis.
+
+Other cardiovascular findings: 
+-LA and LV dilatation, diffuse wall thinning of LV, probably DCMP.
+-Focal thickening of AML, MR due to incomplete coaptation of MV leaflets.
+
+Extracardiac findings: 
+-Minimal bilateral pleural effusion
+-Focal bronchiectasis, fibrosis on RUL, probably postinflammatory sequalae
+-Subsegmental atelectasis on both lungs
+
+IMP: No significant CAD
+      DCMP with MR",2017-01-19,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,0,19.64
+236,,1016,8408840,M,37,0,2017-03-16,176,130,2.521,41.97,135,90,93,0.6,152,2017-03-16,141,2017-03-16,5194,2017-03-08,39.1,2017-03-16,3,2,2017-03-08,No,N/A,Y,No,No,N/A,2017-03-08,30,63,2017-11-21,51,63,258,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Rt.RA c 6Fr sheath → PAD+coban
+
+RCA: JR 5-4
+No sig LN
+
+LCA: JL 5-4 
+No sig LN
+",N/A,No Sx  [ No Sx ],Normal & minimal dz.,N/A,2017-03-20,1,0,0,1,0.49
+237,,1019,8417789,F,47,0,2017-03-22,155,73.9,1.784,30.76,102,87,95,0.89,68,2017-03-22,141,2017-03-22,2747,2017-03-20,34.4,2017-03-22,2,2,2017-05-08,No,N/A,N,No,No,N/A,2017-03-21,26,63,2018-06-05,53,49,441,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,"CLINICAL HISTORY: dyspnea, DCM
+  
+Siemens Flash, Sequence, Heart rate(minimum 70, maximum 73, average 71), DLP(calcium scan 43, CT angiography 218, total 276), Image quality good  
+  
+FINDINGS:  
+Total calcium score is 3.7.  
+The coronary arteries arise in normal position.   
+There is right coronary artery dominance.  
+  
+LM: No significant plaque or stenosis.     
+LAD: Noncalcified plaque at mLAD with mild stenosis (30-40%).
+       Another noncalcified plaque at mLAD with moderate stenosis (50%).     
+       - r/o sequential artifact.
+LCx: No significant plaque or stenosis.                       
+RCA: No significant plaque or stenosis.           
+  
+Other cardiovascular findings: Prominent trabeculation at the lateral wall of apical to mid LV, r/o noncompaction. Pericardial effusion.
+Extracardiac findings: Rt. pleural effusion.    
+  
+IMPRESSION: 1. CAD, r/o 1vd.
+  ",2017-03-25,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,1,3.29
+240,,1031,3681798,F,63,0,2017-04-05,154,54.9,1.532,23.15,119,90,100,0.7,85,2017-04-05,141,2017-04-05,3009,2017-04-03,41,2017-04-06,1,1,2017-04-18,yes,2017-03-09,N,No,Yes,2017-03-09,2017-03-23,20,59,2018-02-13,45,53,327,N/A,N/A,N,N/A,"- 키:  153.5 cm, 체중:  60 kg
+
+- 최대산소섭취량(VO2peak) :  7.95 ml/kg/min ( 2.27 METs)
+
+- Age predicted aerobic capacity:  35 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란 & 증상제한 (nausea)
+
+- RER: 0.92 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 46.1 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- 운동중 PVC's & 회복기 PVC's 
+
+- no ST change
+
+- recovery at 1min HR :  169 bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** Recent Exercise habit
+None",2017-03-23,N/A,N/A,"
+CLINICAL HISTORY: DOE, R/O DCMP, Rt. breast cancer (17 yr)   
+   
+ACQUISITION: Siemens Flash, Sequence, Heart rate(minimum 45, maximum 120, average 84), DLP(calcium scan 49, CT angiography 142,  total 206), Image quality good.     
+     
+FINDINGS:          
+Total calcium score is 744.9      
+The coronary arteries arise in normal position.          
+There is Rt. coronary artery dominance.          
+        
+LM: No evidence of plaque or stenosis.   
+LAD: pLAD, diffuse calcified plaque, minimal stenosis (<10%)   
+LCX: pLCX, calcified plaque, minimal stenosis (<10%)   
+RCA: p to mRCA, diffuse mixed plaque, minimal stenosis (<30%)   
+       dRCA, calcified plaque (2), minimal stenosis (10-20%)   
+     
+Other cardiovascular findings: 
+-Lt cardiac chamber enlargement. Small amount pericardial effusion.   
+Extracardiac findings:   
+Diffuse GGO with interlobular septal thickening and bronchovascular interstitial thickening in both lungs, suggestive of pulmonary edema.
+Several ill-defined nodular GGO lesions in both lungs, rather likely inflammatory.
+Subsegmental atelectasis or fibrosis at Rt. middle lobe and Lt. lingular segment.  
+   
+Imp.) 1. Minimal CAD.
+       2. Lt cardiac chamber enlargement and pulmonary edema.
+       3. Several ill-defined nodular GGO lesions in both lungs, rather likely inflammatory.
+          - Recommend 1-3 month F/U low dose chest CT.
+
+
+
+ 
+LSA. 
+",2017-04-04,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,0,3.39
+242,,1034,5469690,M,60,0,2017-04-06,166,75.6,1.867,27.44,103,67,98,0.82,96,2017-04-06,141,2017-04-06,550,2017-04-03,33.3,2017-04-06,3,2,2017-04-11,No,N/A,Y,No,No,N/A,2017-04-06,24,64,2018-07-12,37,60,462,N/A,N/A,N,N/A,"- 키: 166 cm, 체중: 78 kg
+
+- 최대산소섭취량(VO2peak) :  7.46 ml/kg/min ( 2.13 METs)
+
+- Age predicted aerobic capacity: 26 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란 & 근골격계 문제 (leg discomfort)
+
+- RER:  1.04 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 48.8 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- no PVC 
+
+- ST depression 2mm 미만(at base) in lead II, III, aVF (with TWI)
+
+- recovery at 1min HR :   110  bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** 6MWT
+pre SpO2: 97%
+post SpO2: 97%
+보행거리: 56m
+(2분 45초 보행 후 검사 포기함)
+
+** Recent Exercise habit
+none",2017-04-05,N/A,N/A,"Hx : DCMP, EF 감소 및 bp down r/o cardiogenic shock d/t ischemic HF. 
+GE Revolution, Axial, Heart rate(minimum 86 maximum 90, average 88), DLP(calcium scan 58.86, CT angiography 47.84, total 113.33), Image quality fair due to fast heart rate. 
+ 
+FINDINGS:  
+Total calcium score is 41.8. 
+There is right coronary artery dominance.  
+  
+LM: No evidence of plaque or stenosis. . 
+LAD: r/o Mixed plaque at pLAD with mild (30-49%) stenosis.   
+LCX: No evidence of plaque or stenosis.   
+RCA: No evidence of plaque or stenosis.  
+ 
+Other cardiovascular findings: No remarkable finding.  
+Extracardiac findings: Slightly imporved patch GGO at bilateral lungs and collapsed consolidation at RLL.
+ 
+IMPRESSION: r/o Mild CAD. 
+ 
+YJY",2017-03-15,"Lt. Radial A. c 6Fr sheath → PAD + Coban
+
+RCA c JR 5-4
+ minimal LN of p-mRCA
+
+LCA c JL 5-4
+ minimal LN of pLCx
+ minimal LN of p-mLAD
+
+contrast: Visipaque 60cc",N/A,"Silent ischemia (Sx 없지만TMT,MIBI,RWMA 등 positive)  [ Silent ischemia (Sx 없지만TMT,MIBI,RWMA 등 positive) ]",Normal & minimal dz.,N/A,2017-04-04,1,0,0,0,0
+243,,1035,8175473,M,39,0,2017-04-07,180,80.6,2.007,24.88,83,83,93,1.02,81,2017-04-06,141,2017-04-06,4130,2017-04-01,42.1,2017-04-07,2,2,2017-04-06,No,N/A,Y,No,No,N/A,2017-04-04,17,76,2017-11-24,45,62,234,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Lt. Radial artery c 6Fr sheath → PAD + Coban                       				
+
+RCA c JR 5-4
+ Anuerysmal change at dRCA
+
+LCA c JL 5-4
+ Minimal LN of p~mLAD",N/A,Stable Angina ; CCS class  [ Stable Angina ; CCS class ],Normal & minimal dz.,N/A,2017-04-10,1,1,1,0,0.36
+244,,1036,8408372,F,56,0,2017-04-07,160,53.3,1.539,20.82,106,65,69,0.47,137,2017-04-07,147,2017-04-07,731,2017-04-05,38,2017-04-05,1,1,2017-04-17,yes,2017-08-17,N,No,No,N/A,2017-03-22,28,57,2018-05-21,52,53,425,N/A,N/A,N,N/A,"
+- 키:  160  cm, 체중:  54  kg
+
+- 최대산소섭취량(VO2peak) : 10.94 ml/kg/min ( 3.12 METs)
+
+- Age predicted aerobic capacity:  40  % (정상 이하)
+
+- 운동중단 사유: leg discomfort
+
+- RER: 1.06 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 27.8  (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- no PVC
+
+- no ST change
+
+- recovery at 1min HR : 85 bpm
+
+** 검사자 comment : Clinical correlation required 
+
+** 꾸준히 하는 운동 : none 
+
+* recent echo 17' 3/22, ef 28%
+",2017-04-06,"
+Hx: Chest pain 
+HTN/DM: -/+ 
+EKG:Sinus rhythm with 1st degree A-V block Left bundle branch block, Abnormal ECG (2017-03-06)
+
+Technique:
+Tc-99m MIBI was injected to the patient intravenously, and resting SPECT imaging was performed.       
+Four hours later, a pharmacologic stress test was done using intravenous adenosine infusion, and stress SPECT imaging was obtained.        
+
+Findings and impression:
+LV cavity size is within normal limits.
+Moderate degree, moderate sized, partial reversible photon defect in the apex, septum and apical inferior wall.
+Mild degree, moderate sized, reversible photon defect in the lateral wall. Rec) CAG
+Global hypokinesia.
+LVEF is estimated to be 26%.
+
+
+KSY
+
+
+",2017-03-22,N/A,N/A,"Lt.RA c 6Fr sheath → PAD+coban                    				
+
+RCA: JR 5-4
+No sig LN
+
+LCA: JL 5-4
+minimal LN of mLAD
+",N/A,N/A,N/A,minimal CAD,2017-04-05,1,0,0,1,4.56
+245,,1045,7982058,M,40,0,2017-04-13,174,85.1,2.028,28.11,125,90,75,1.02,81,2017-04-13,143,2017-04-13,1976,2017-04-09,44.3,2017-04-12,N/A,,N/A,No,N/A,Y,No,No,N/A,2017-04-12,14,77,2018-05-21,47,58,404,N/A,N/A,N,N/A,"
+- 키:  174  cm, 체중:   82 kg
+
+- 최대산소섭취량(VO2peak) : 19.50 ml/kg/min ( 5.57  METs)
+
+- Age predicted aerobic capacity:  52  % (정상 이하)
+
+- 운동중단 사유: 호흡곤란
+
+- RER: 1.22 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 28.8 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- no PVC 
+
+- no ST change 
+
+- recovery at 1min HR :   103    bpm
+
+** 검사자 comment : 검사 중 SBP 증가양상 관찰 어려움. Clinical correlation required 
+
+** 꾸준히 하는 운동 
+테니스, 2회/주, 4시간/회, RPE 13
+
+** 6MWT
+pre SpO2: 98%
+post SpO2: 94%
+보행거리: 494m
+
+* Recent echo 17' 4/10, ef 14%",2017-04-17,"Hx: DOE
+R/O DCMP 
+ECG: Normal sinus rhythm, Nonspecific ST and T wave abnormality, Abnormal ECG (2017.04.11) 
+HTN/DM: (+/-) 
+Ht/Wt: 174/92 
+Echo: Severe global hypokinesia of LV (2017.04.10)
+
+Technique:
+Tc-99m MIBI was injected to the patient intravenously, and resting SPECT imaging was performed.       
+Four hours later, a pharmacologic stress test was done using intravenous adenosine infusion, and stress SPECT imaging was obtained.        
+
+Findings and impression:
+LV cavity size is increased.
+Mild degree, moderate sized, persistent perfusion decrease in the inferior wall. 
+Global hypokinesia.
+LVEF is estimated to be 22%.
+r/o non-ischemic cardiomyopathy.
+
+
+KSY
+
+
+",2017-04-12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,1,0
+246,,1049,2954516,M,65,0,2017-04-14,168,51.08,1.544,18.1,100,66,80,0.73,108,2017-04-13,144,2017-04-14,3949,2017-04-08,45.5,2017-04-13,N/A,,N/A,No,N/A,Y,No,Yes,2017-04-10,2017-04-14,27,57,2018-02-26,66,53,318,N/A,N/A,N,N/A,"- 키:  168  cm, 체중:  50  kg
+
+- 최대산소섭취량(VO2peak) : 25.41 ml/kg/min ( 7.26 METs)
+
+- Age predicted aerobic capacity:   71 % (정상 이하)
+
+- 운동중단 사유: 호흡곤란
+
+- RER: 1.09 (1.1이상 최대노력)
+
+- VE/VCO2 slope: 35.7 (30이하: 정상 / 60이상: 심한 심폐질환 의심)
+
+- no PVC 
+
+- no ST change
+
+- recovery at 1min HR :   151    bpm
+
+** 검사자 comment : 검사중 SBP상승 폭 적음. 어지러움증 등 특이증상 동반 없음. Clinical correlation required 
+
+** 꾸준히 하는 운동 : none
+
+* recent echo 17' 4/14, ef 27%
+
+* 6MWT
+전 : 97%
+후 : 99%
+총보행거리 : 440M",2017-04-17,"Hx: Heart failure evaluation
+ECG: Atrial fibrillation, Right bundle branch block, Left anterior fascicular block, (Bifascicular block), Abnormal ECG (2017.04.12) 
+HTN/DM: (-/-) 
+Ht/Wt: 168/54 
+Echo: Severe global hypokinesia of LV, LVEF 19% (2017.04.10)
+
+Technique:
+Tc-99m MIBI was injected to the patient intravenously, and resting SPECT imaging was performed.       
+Four hours later, a pharmacologic stress test was done using intravenous adenosine infusion, and stress SPECT imaging was obtained.        
+
+Findings and impression:
+LV cavity size is incresased.
+Mild degree, moderate sized, persistent perfusion decrease in the inferior wall, more likely d/t diaphragm attenuation artifact. Rec) clinical correlation. 
+Global hypokinesia.
+LVEF is estimated to be 19%.
+
+
+KSY
+
+
+",2017-04-13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,0,0,1,0
+247,,1052,8433864,M,37,0,2017-04-19,170,89,2.05,30.8,98,65,76,0.8,109,2017-04-19,140,2017-04-19,376,2017-04-18,55.4,2017-04-19,1,1,2017-04-28,No,N/A,Y,No,No,N/A,2017-04-18,17,64,2018-05-11,17,64,388,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Lt.RA c 6Fr sheath → PAD+coban                    				
+
+RCA: JR 5-4
+No sig LN
+
+LCA: JL 5-4
+minimal LN of pLAD",N/A,N/A,Normal & minimal dz.,N/A,2017-04-19,0,0,0,0,0
+249,,1067,1890096,M,74,0,2017-05-10,178,74,1.913,23.36,121,72,108,6.55,8,2017-05-09,138,2017-05-09,20108,2017-05-08,35,2017-05-09,N/A,,N/A,yes,2017-05-08,Y,No,No,N/A,2017-05-08,21,62,2018-05-29,49,54,386,N/A,N/A,N,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"RCA c JR 5-4
+ Diminutive RCA
+ Minimal LN of p-mRCA
+ No interval change compared to previous CAG (2015.9.9)
+
+LCA c JL 5-5
+ Diffuse irr. 30-40% LN of mLAD
+ Diffuse ecc. 40% LN of dLAD
+
+Aortogram was performed to see the aortic aneurysm.
+Angiography was done at the level of femoral artery.
+
+Perclose was utilized.
+
+Contrast: Vispaque",N/A,No Sx  [ No Sx ],Normal & minimal dz.,N/A,2017-05-08,1,1,1,1,0
