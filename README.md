@@ -65,6 +65,9 @@ I am writing on ...
 >  
 
 
+### Portfolio 참고 자료:
+> [1] train_test_split 모듈을 활용하여 학습과 테스트 세트 분리: https://teddylee777.github.io/scikit-learn/train-test-split  
+> [2] 
 
 
 
