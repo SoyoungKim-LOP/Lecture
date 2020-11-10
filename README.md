@@ -55,7 +55,7 @@ I am writing on ...
 > (3) GAN 코드 분석 (Conv2DTranspose 설명 포함): https://leestation.tistory.com/776  
 > (4) How to use the UpSampling2D & Conv2DTranspose Layers in Keras : https://machinelearningmastery.com/upsampling-and-transpose-convolution-layers-for-generative-adversarial-networks/   
 > (4) 파이썬을 이용한 통계분석 방법: https://partrita.github.io/posts/thinkstat2/  
-> (5) Confidence interval for a single sample for sensitivity and specificity: https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/PASS/Confidence_Intervals_for_One-Sample_Sensitivity_and_Specificity.pdf
+> (5) Confidence interval for a single sample for sensitivity and specificity: https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/PASS/Confidence_Intervals_for_One-Sample_Sensitivity_and_Specificity.pdf  
 > (6) **Colab**에서 R사용하기: https://colab.research.google.com/notebook#create=true&language=r
 >
 >  
