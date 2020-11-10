@@ -56,7 +56,8 @@ I am writing on ...
 > (4) How to use the UpSampling2D & Conv2DTranspose Layers in Keras : https://machinelearningmastery.com/upsampling-and-transpose-convolution-layers-for-generative-adversarial-networks/   
 > (4) 파이썬을 이용한 통계분석 방법: https://partrita.github.io/posts/thinkstat2/  
 > (5) Confidence interval for a single sample for sensitivity and specificity: https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/PASS/Confidence_Intervals_for_One-Sample_Sensitivity_and_Specificity.pdf  
-> (6) **Colab**에서 R사용하기: https://colab.research.google.com/notebook#create=true&language=r
+> (6) **Colab**에서 R사용하기: https://colab.research.google.com/notebook#create=true&language=r 주소로 코랩에 접속하고, 메뉴에서 [수정]-->[노트설정]부분에 들어가서 R과Python 옵션을 
+  선택할 수 있다. 
 >
 >  
 
